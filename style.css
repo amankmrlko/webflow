@@ -196,7 +196,7 @@ body {
 #four {
   position: absolute;
   width: 100%;
-  height: calc(100% - 70px);
+  height: 626px;
   cursor: pointer;
   transition: all 0.8s ease-in-out;
   padding: 20px;
